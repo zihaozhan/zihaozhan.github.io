@@ -24,11 +24,11 @@ author:
   avatar           : "Zihao.jpg"
   name             : "Zihao Zhan"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Associate in ECE"
-  location         : "Gainesville, FL"
-  employer         : "University of Florida"
+  bio              : "Assistant Professor in Computer Science"
+  location         : "Lubbock, TX"
+  employer         : "Texas Tech University"
   uri              : # URL
-  email            : "zhan.zihao@ufl.edu" 
+  email            : "zihao.zhan@ttu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
