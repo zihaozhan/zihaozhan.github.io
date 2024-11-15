@@ -10,6 +10,10 @@ author\_profile: true
 {% endif %}
 (\* indicates co-first authors)
 
+- [CCS'24] GAZEploit: Remote Keystroke Inference Attack by Gaze Estimation from Avatar Views in VR/MR Devices
+Hanqiu Wang, __Zihao Zhan__, Haoqi Shan, Siqi Dai, Maximilian Panoff, Shuo Wang  
+*ACM Conference on Computer and Communications Security*, 2024
+
 - [Security'24] VoltSchemer: Use Voltage Noise to Manipulate Your Wireless Charger  
 __Zihao Zhan__, Yirui Yang, Haoqi Shan, Hanqiu Wang, Yier Jin, Shuo Wang  
 *USENIX Security Symposium*, 2024

@@ -13,4 +13,3 @@ I received my Ph.D. degree from Vanderbilt University in 2021, under the supervi
 I earned my M.S. degree from Vanderbilt University and B.S. degree from University of Science and Technology of China
 
 
-__[Ph.D. Students Recruiting]__ I am actively looking for self-motivated Ph.D. students. Please email me your CV if you are interested in my research.
